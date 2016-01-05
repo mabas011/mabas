@@ -1,0 +1,7 @@
+lsusb
+
+ATTR{idVendor}=="04b8", ATTR{idProduct}=="0883", MODE:="0660", 
+GROUP:="lp"
+ATTR{idVendor}=="04b8", ATTR{idProduct}=="0883", MODE:="0660", 
+GROUP:="lp", ENV$
+
